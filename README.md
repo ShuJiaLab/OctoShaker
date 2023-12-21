@@ -1,5 +1,5 @@
 # OctoShaker
-The repository for OctoShaker contains the files for robotic control and the CAD file. Matlab codes for experimental analysis is available upon request. 
+The repository for OctoShaker contains the files for robotic control and the CAD file.
 
 The CAD file contains the final version of the OctoShaker, and the assembly instruction can be found by accessing the article supplementary material referenced below. For 3D printing, beaware of using the exact parameters and allow tolerances depending on individual printers. It is best to print few variations at once to select the best parameters for the specific printer.
 
