@@ -8,5 +8,6 @@ Robotic control files contain the two main folder: "Sequencing" and "Motions." T
 The article can be found at "OctoShaker: A versatile robotic biomechanical agitator for cellular and organoid research" at Review of Scientific Instruments journal.
 
 Please cite the article if used the provided code, thank you!
+
 Yan Huang, Soojung Lee, Wenhao Liu, Shuichi Takayama, Shu Jia; OctoShaker: A versatile robotic biomechanical agitator for cellular and organoid research. Rev. Sci. Instrum. 1 December 2023; 94 (12): 124104. https://doi.org/10.1063/5.0174526
 
